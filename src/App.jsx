@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Ulug` loh g`aaaaa</h1>
+    <p>Salom salat</p>
     </>
   )
 }
